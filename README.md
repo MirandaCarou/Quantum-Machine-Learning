@@ -1,2 +1,2 @@
 # Quantum-Machine-Learning
-Quantum Machine Learning notebook to MNIST classification. Educational Purpouse 
+Quantum Machine Learning notebooks to MNIST data classification. Educational Purpouse 
